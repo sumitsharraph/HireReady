@@ -1,0 +1,6 @@
+{
+  "name": "HireReady",
+  "description": "AI-Powered College Placement Intelligence, Resume Analysis & Interview Preparation Platform",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
